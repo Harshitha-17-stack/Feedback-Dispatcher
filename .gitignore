@@ -1,0 +1,16 @@
+# Compiled executables
+hostd
+worker
+
+# ZIP files
+*.zip
+
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
