@@ -94,6 +94,15 @@ The React simulator performs its own JavaScript-based simulation and does not co
 - Add more scheduling algorithms for comparison.
 - Improve process monitoring and performance analysis.
 
-## Author
+## Team Members
 
-Developed as an Operating Systems project.
+This project was developed collaboratively by a team of six as part of the Operating Systems course.
+
+1. Manvitha
+2. Rishitha
+3. Jyothishmathi
+4. Harshitha Reddy
+5. Harshitha
+6. Meghana 
+
+
